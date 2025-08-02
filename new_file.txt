@@ -1,1 +1,2 @@
 Hello hi
+This is the new_feature
